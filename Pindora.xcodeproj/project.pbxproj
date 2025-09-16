@@ -15,6 +15,10 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
+				Source/Data/.gitkeep,
+				Source/Domain/.gitkeep,
+				Source/Presentation/.gitkeep,
+				Source/Util/.gitkeep,
 			);
 			target = DF1977BF2E791DC300FE98B9 /* Pindora */;
 		};
